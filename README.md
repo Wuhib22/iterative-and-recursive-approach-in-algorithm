@@ -1,3 +1,5 @@
+# NAME-WUHIB TSEGAYE
+# ID-7413/23 
 # iterative-and-recursive-approach-in-algorithm
 # An iterative approach uses loops (like for, while, or do-while) to repeatedly execute a block of code until a specific condition is met. On the other hand, a recursive approach solves a problem by breaking it down into smaller instances of the same problem, usually through function calls.
 # Key Differences:
